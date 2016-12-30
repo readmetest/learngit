@@ -7,4 +7,5 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick and simple.
 >>>>>>> featurel
-add merge
+add merge bug
+coding: utf-8
