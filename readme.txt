@@ -8,6 +8,10 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 >>>>>>> featurel
 add merge
+<<<<<<< HEAD
 add/user/bin/env
 add/user/bin/env
 add/user/bin/env
+=======
+utf8
+>>>>>>> ce76283303b1628c7af8ebd3564bb3fef8d93ac2
